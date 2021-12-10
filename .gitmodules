@@ -1,0 +1,4 @@
+[submodule "security"]
+	path = security
+	url = https://github.com/submoduletest/security.git
+	branch = master
